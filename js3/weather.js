@@ -1,5 +1,5 @@
 const COORDS = "coords";
-const API_KEY="1dfba7be46de741d46b698a08142fc69";
+const API_KEY="";
 
 function saveCoords(coordsObj){
     localStorage.setItem(COORDS, JSON.stringify(coordsObj));
